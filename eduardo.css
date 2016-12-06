@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+	background-image: url(1f7143f36a8cb3f79aea702f576d13b6.jpg);
+	background-size: cover;
+}
+body {
+}
+h1 {
+	font-family: "Caviar Dreams Bold";
+}
+
+@media screen{
+.tab-content #home {
+	font-size: 34px;
+	font-family: "Caviar Dreams Bold";
+}
+}

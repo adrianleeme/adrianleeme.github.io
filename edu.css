@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+	background-image: url(cdfc570559a8057853cb0eeed07f1998.jpg);
+	background-size: cover;
+}
+h1 {
+	font-family: "Caviar Dreams Bold";
+	font-size: 80px;
+	top: -60px;
+	position: relative;
+}
+.container {
+}
+a .btn-group .btn.btn-default {
+	top: 46px;
+	left: -152px;
+}
